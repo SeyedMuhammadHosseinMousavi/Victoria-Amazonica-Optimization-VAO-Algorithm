@@ -11,7 +11,6 @@
 ![VAO Algorithm](https://user-images.githubusercontent.com/11339420/227768464-e2382065-dcb1-4d5a-9acc-4bf5490d803d.JPG)
 
 
-```plaintext
 Victoria Amazonica Optimization (VAO) is a novel bio-inspired algorithm inspired by the unique life cycle of the giant water lily plant. This algorithm models the natural processes of leaf expansion, intra-competition, and hybrid pollination to solve optimization problems effectively. The key inspiration for VAO comes from the biological traits of Victoria Amazonica, including its ability to dominate water surfaces, compete for resources, and undergo genetic diversity through hybridization.
 
 ## Biological Inspiration 🌿
