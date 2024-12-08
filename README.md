@@ -34,7 +34,9 @@ The life cycle of the giant water lily plant, Victoria Amazonica, serves as the 
    - Retain the best solutions after each iteration.
 5. **Iteration**:
    - Repeat the process for a fixed number of iterations or until convergence.
+
 ![image](https://github.com/user-attachments/assets/c839e706-1c27-4ed4-82e9-8499b465035b)
+
 ![image](https://github.com/user-attachments/assets/3021f798-d786-439a-8001-44a33c9132fb)
 
 ## Applications 🚀
