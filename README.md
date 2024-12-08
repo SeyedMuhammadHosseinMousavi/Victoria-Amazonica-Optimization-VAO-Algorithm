@@ -34,6 +34,8 @@ The life cycle of the giant water lily plant, Victoria Amazonica, serves as the 
    - Retain the best solutions after each iteration.
 5. **Iteration**:
    - Repeat the process for a fixed number of iterations or until convergence.
+![image](https://github.com/user-attachments/assets/c839e706-1c27-4ed4-82e9-8499b465035b)
+![image](https://github.com/user-attachments/assets/3021f798-d786-439a-8001-44a33c9132fb)
 
 ## Applications 🚀
 The VAO algorithm has demonstrated superior performance in solving both standard benchmark functions and real-world optimization problems:
@@ -51,6 +53,8 @@ The VAO algorithm has demonstrated superior performance in solving both standard
    - Feature Selection (FS)
    - Economic Dispatching (ED)
    - Parallel Machine Scheduling (PMS)
+![image](https://github.com/user-attachments/assets/51367be7-08bc-45ad-98a5-61943bd9e079)
+![image](https://github.com/user-attachments/assets/34e71f1d-9dc4-472f-9fa0-712bbbed0875)
 
 ## Algorithm Pseudocode 📜
 1. Start by initializing the population (plants) with random positions and calculate their costs.
@@ -69,6 +73,8 @@ The VAO algorithm has demonstrated superior performance in solving both standard
 - Sphere: Simple yet effective with a best cost of 0.002.
 - Booth: Achieved near-perfect results with a cost of 0.004.
 - Beale: Minimum cost reached at 0.000.
+![image](https://github.com/user-attachments/assets/48fa5cc6-538b-41f0-8226-7e25e8f6db57)
+![image](https://github.com/user-attachments/assets/1492877e-e38e-407e-bfd2-0f858099b239)
 
 ### Real-World Problem Performance:
 - MST: Optimized with minimal edge costs.
@@ -80,9 +86,11 @@ The VAO algorithm has demonstrated superior performance in solving both standard
 - Exploring hybridization with other metaheuristic algorithms.
 - Improving scalability for large-scale problems.
 - Applying VAO in fields like robotics, finance, and healthcare.
+![image](https://github.com/user-attachments/assets/43054d93-6c12-446a-a244-944c48d05b96)
 
 ## Contact Information 📬
 - Author: Seyed Muhammad Hossein Mousavi
-- Email: seyed.mousavi@supsi.ch
+- Email: mosavi.a.i.buali@gmail.com
 - GitHub: https://github.com/SeyedMuhammadHosseinMousavi
+![image](https://github.com/user-attachments/assets/b73492ae-4554-47a7-817a-1120433c59ad)
 
